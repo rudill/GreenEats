@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1039048934045",
+    "project_id": "mongoappv2",
+    "storage_bucket": "mongoappv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039048934045:android:28e5c9beaeb4037a1d8a74",
+        "android_client_info": {
+          "package_name": "com.example.mongoappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039048934045-flkp5u25reu5mu5eq6fqcgqkp4aae1uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mongoappv2",
+            "certificate_hash": "833342a6a5f0e4163f2557a66bb510805f1aae02"
+          }
+        },
+        {
+          "client_id": "1039048934045-ksh4jmn565skrqh4dqg9df3hedhdb7nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_M_iVC8rYAgZDOKR9oW0wbiGdiZs7jiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039048934045-ksh4jmn565skrqh4dqg9df3hedhdb7nb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039048934045-uvv5ee8hm87urv3q2400gjjjno424h6t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mongoappv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
